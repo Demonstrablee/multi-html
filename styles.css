@@ -23,7 +23,7 @@ a:hover{
 body{
     
     justify-content: center;
-    background-image: url("images/forest.png");
+    background-image: url("images/background-image.png");
 }
 
 div{
@@ -34,4 +34,5 @@ div{
 .secondary{
     color: white;
 }
+
 
