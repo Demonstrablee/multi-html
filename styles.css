@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif;
+    color: blueviolet;
+    
+}
+
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: goldenrod;
+}
+
+body{
+    
+    justify-content: center;
+    background-image: url("images/forest.png");
+}
+
+div{
+    text-align: center;
+    
+}
+
+.secondary{
+    color: white;
+}
